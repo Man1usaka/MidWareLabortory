@@ -1,0 +1,6 @@
+C:\Users\Y Jiang\source\repos\Lab3_COM\Lab3_COM\bin\x64\Debug\Lab3_COM.dll
+C:\Users\Y Jiang\source\repos\Lab3_COM\Lab3_COM\bin\x64\Debug\Lab3_COM.pdb
+C:\Users\Y Jiang\source\repos\Lab3_COM\Lab3_COM\bin\x64\Debug\Lab3_COM.tlb
+C:\Users\Y Jiang\source\repos\Lab3_COM\Lab3_COM\obj\x64\Debug\Lab3_COM.csproj.CoreCompileInputs.cache
+C:\Users\Y Jiang\source\repos\Lab3_COM\Lab3_COM\obj\x64\Debug\Lab3_COM.dll
+C:\Users\Y Jiang\source\repos\Lab3_COM\Lab3_COM\obj\x64\Debug\Lab3_COM.pdb
